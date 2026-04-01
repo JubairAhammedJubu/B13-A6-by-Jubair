@@ -6,7 +6,7 @@ function Pricing({pricingPromise}) {
   return (
     <div className="py-20 md:py-30 bg-base-100 px-4">
       <div className="max-w-[1200px] mx-auto">
-        {/* Title */}
+       
         <div className="text-center mb-12 md:mb-16">
           <h2 className="text-3xl md:text-5xl font-bold">{pricing.title}</h2>
           <p className="mt-2 text-gray-400 text-sm md:text-base">
@@ -14,7 +14,7 @@ function Pricing({pricingPromise}) {
           </p>
         </div>
 
-        {/* Cards */}
+ 
         <div className="flex flex-col md:flex-row gap-6 md:gap-8 justify-center items-stretch">
           {pricing.plans.map((plan, index) => (
             <div
@@ -27,14 +27,14 @@ function Pricing({pricingPromise}) {
             >
               <div className="card-body flex flex-col h-full">
                 <div className="grow">
-                  {/* Badge */}
+                
                   {plan.label && (
-                    <span className="badge bg-yellow-100 p-3 rounded-full absolute left-25 md:left-35 -top-4 text-sm text-red-700">
+                    <span className="badge bg-yellow-100 p-3 rounded-full absolute left-2/6 md:left-2/5  -top-4 text-sm text-red-700">
                       {plan.label}
                     </span>
                   )}
 
-                  {/* Title */}
+      
                   <h2 className="text-xl md:text-2xl font-bold">{plan.name}</h2>
 
                   <p
@@ -45,7 +45,6 @@ function Pricing({pricingPromise}) {
                     {plan.description}
                   </p>
 
-                  {/* Price */}
                   <div className="mt-4">
                     <span className="text-3xl md:text-4xl font-bold">
                       {plan.price}
@@ -55,7 +54,7 @@ function Pricing({pricingPromise}) {
                     </span>
                   </div>
 
-                  {/* Features */}
+                 
                   <ul className="mt-6 flex flex-col gap-3 text-sm">
                     {plan.features.map((feature, i) => (
                       <li key={i}>
@@ -81,7 +80,7 @@ function Pricing({pricingPromise}) {
                   </ul>
                 </div>
 
-                {/* Button */}
+             
                 <div className="mt-6">
                   <button
                     className={`btn w-full rounded-full ${

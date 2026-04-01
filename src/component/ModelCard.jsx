@@ -26,14 +26,14 @@ const ModelCard = ({model, carts, setCarts}) => {
 
   return (
     <div className="max-w-sm rounded-2xl border border-gray-200 p-6 relative bg-white">
-      {/* Tag */}
+      
       <div
         className={`absolute top-4 right-4 text-sm font-medium px-3 py-1.5 rounded-full ${tagStyles[model.tagType]}`}
       >
         {model.tag}
       </div>
 
-      {/* Icon */}
+     
       <div className="w-14 h-14 rounded-full border-2 flex items-center justify-center mb-4 border-gray-200">
         <img
           src={model.icon}
@@ -42,21 +42,19 @@ const ModelCard = ({model, carts, setCarts}) => {
         />
       </div>
 
-      {/* Title */}
       <h3 className="text-2xl font-semibold mb-2">{model.name}</h3>
 
-      {/* Description */}
+
       <p className="text-gray-500 mb-6">{model.description}</p>
 
-      {/* Price */}
+    
       <p className="text-3xl font-bold mb-6">
         ${model.price}
         <span className="text-base font-normal text-gray-500">
           /{model.period}
         </span>
       </p>
-
-      {/* Features */}
+   
       <ul className=" space-y-2 mb-6 text-gray-600">
         {model.features.map((feature, index) => (
           <li key={index} className="flex items-center gap-2">
@@ -79,7 +77,7 @@ const ModelCard = ({model, carts, setCarts}) => {
         ))}
       </ul>
 
-      {/* Button */}
+
       <button
         onClick={handleAdded}
         className={`w-full rounded-full py-2 text-white transition ${

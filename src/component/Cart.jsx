@@ -60,13 +60,13 @@ const Cart = ({carts, setCarts}) => {
             ))}
           </div>
 
-          {/* Total */}
+
           <div className="flex justify-between mt-8">
             <span className="text-sm text-slate-500">Total:</span>
             <span className="text-2xl font-bold">${totalPrice}</span>
           </div>
 
-          {/* Checkout button */}
+
           <button
             onClick={handlePayment}
             className="mt-6 w-full bg-linear-to-r from-indigo-600 to-purple-600 text-white py-3 rounded-full font-semibold text-lg hover:opacity-90 transition"
