@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/4712/4712027.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828911.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10M+ assets", "Commercial use", "No attribution"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1042/1042339.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721293.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across platforms.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/733/733547.png"
+  },
+  {
+    "id": 7,
+    "name": "Video Editing Suite",
+    "description": "Professional video editing tools for creators and marketers.",
+    "price": 59,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["4K export", "100+ transitions", "Audio editing tools"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3039/3039386.png"
+  },
+  {
+    "id": 8,
+    "name": "Email Marketing Pro",
+    "description": "Create and automate email campaigns that convert.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Drag & drop builder",
+      "Automation flows",
+      "Analytics reports"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/561/561127.png"
+  },
+  {
+    "id": 9,
+    "name": "AI Image Generator Pro",
+    "description": "Create stunning AI-generated images and artwork in seconds for your projects.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": [
+      "Text to image generation",
+      "High-resolution downloads",
+      "Style customization"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png"
+  }
+]
