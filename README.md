@@ -1,11 +1,10 @@
 
 
-# DigiTools
+# DigiTools 
 
+## Overview
 
-## Description
-
-*Digital Tools Marketplace is a modern and responsive web application where users can explore and purchase various digital tools such as templates, resume builders, design assets, and more. The platform allows users to browse products, view detailed features, and add items to a cart for checkout. It provides a smooth and interactive shopping experience with real-time cart updates and notifications.*
+**DigiTools** is a modern and responsive digital tools marketplace where users can explore and purchase various digital products such as templates, resume builders, and design assets. The platform provides a smooth and interactive shopping experience with real-time updates and user-friendly navigation.
 ---
 
 ## Technologies Used
