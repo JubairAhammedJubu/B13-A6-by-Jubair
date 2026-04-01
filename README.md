@@ -4,7 +4,7 @@
 
 ## Overview
 <small>
-**DigiTools** is a modern and responsive digital tools marketplace where users can explore and purchase various digital products such as templates, resume builders, and design assets. The platform provides a smooth and interactive shopping experience with real-time updates and user-friendly navigation.
+DigiTools is a modern and responsive digital tools marketplace where users can explore and purchase various digital products such as templates, resume builders, and design assets. The platform provides a smooth and interactive shopping experience with real-time updates and user-friendly navigation.
 </small>
 ---
 
