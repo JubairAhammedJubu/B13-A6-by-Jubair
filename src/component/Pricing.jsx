@@ -29,7 +29,7 @@ function Pricing({pricingPromise}) {
                 <div className="grow">
                   {/* Badge */}
                   {plan.label && (
-                    <span className="badge bg-yellow-100 p-3 rounded-full absolute left-2/5 -top-4 text-sm text-red-700">
+                    <span className="badge bg-yellow-100 p-3 rounded-full absolute left-25 md:left-35 -top-4 text-sm text-red-700">
                       {plan.label}
                     </span>
                   )}
