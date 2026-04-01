@@ -1,9 +1,6 @@
 
 
-**DigiTools**
-
-
-## Project Preview ![Project Screenshot](./src/assets/projectshot.png)
+*DigiTools*
 
 
 ## Description
@@ -49,3 +46,6 @@ Digital Tools Marketplace is a modern and responsive web application where users
 * Clean UI based on Figma design inspiration
 
  *This project demonstrates modern frontend development practices using React and component-based architecture.*
+
+ ## Project Preview 
+ ![Project Screenshot](./src/assets/projectshot.png)
