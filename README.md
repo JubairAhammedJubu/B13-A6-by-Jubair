@@ -2,11 +2,14 @@
 
 **DigiTools**
 
-## Project Preview ![Project Screenshot](./assets/projectshot.png)
+
+## Project Preview ![Project Screenshot](./src/assets/projectshot.png)
+
 
 ## Description
 
 Digital Tools Marketplace is a modern and responsive web application where users can explore and purchase various digital tools such as templates, resume builders, design assets, and more. The platform allows users to browse products, view detailed features, and add items to a cart for checkout. It provides a smooth and interactive shopping experience with real-time cart updates and notifications.
+
 
 ## Technologies Used
 
@@ -16,6 +19,7 @@ Digital Tools Marketplace is a modern and responsive web application where users
 * **JavaScript (ES6+)** – Core programming language
 * **React-Toastify** – For alert notifications
 * **JSON** – For managing product data
+  
 
 ## Key Features
 
@@ -44,4 +48,4 @@ Digital Tools Marketplace is a modern and responsive web application where users
 * Fully responsive design for mobile, tablet, and desktop
 * Clean UI based on Figma design inspiration
 
-🚀 *This project demonstrates modern frontend development practices using React and component-based architecture.*
+ *This project demonstrates modern frontend development practices using React and component-based architecture.*
